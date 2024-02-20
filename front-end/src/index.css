@@ -1,0 +1,8 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.test{
+  clip-path: polygon(50% 0, 44% 15%, 57% 15%);
+}
